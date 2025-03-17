@@ -15,6 +15,6 @@ This game is designed for fun and engagement, featuring smooth gameplay and an i
 ## 🔧 Installation & Usage  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/ethicalaka8h/game.git
+   git clone https://github.com/ethicalaka8h/game
    ```
 2. run in python as local host or use ant platform hosting to host
